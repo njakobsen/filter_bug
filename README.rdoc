@@ -1,0 +1,6 @@
+== README
+
+This app is meant to demonstrate how before_action ignores the :only 
+option and will always execute the method specified in the :if option
+
+Simply load it up and go to the root url.
